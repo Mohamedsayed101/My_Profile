@@ -29,7 +29,7 @@ header {
     align-items: center;
     position: fixed;
     z-index: 999;
-    padding: var(--border-radius) 200px;
+    padding: calc(var(--border-radius) + 10px) 200px;
     width: 100%;
 }
 
@@ -90,7 +90,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color: var(--dark-bgr);
+    background-color: var(--dark-bg);
     background: url(../image/last_photo_me.png) no-repeat;
     background-size: cover;
     background-position: center;
@@ -209,7 +209,7 @@ section {
 /* End services */
 /* Start projects */
 .projects {
-    background-color: var(--dark-bgr);
+    background-color: var(--dark-bg);
 }
 
 .projects .content {
@@ -337,7 +337,7 @@ section {
 
 /* start Footer */
 .footer {
-    background-color: var(--dark-bgr);
+    background-color: var(--dark-bg);
     color: var(--text-light);
     padding: 2em;
     display: flex;
@@ -434,7 +434,7 @@ section {
         background-image: none;
         margin-left: 0;
         margin-top: 40px;
-        background-color: var(--dark-bgr);
+        background-color: var(--dark-bg);
     }
 
     .main img {
@@ -540,7 +540,7 @@ section {
         align-items: center;
         background-image: none;
         margin-left: 0;
-        background-color: var(--dark-bgr);
+        background-color: var(--dark-bg);
     }
 
     .main img {
@@ -647,7 +647,7 @@ section {
         align-items: center;
         background-image: none;
         margin-left: 0;
-        background-color: var(--dark-bgr);
+        background-color: var(--dark-bg);
     }
 
     .main img {
@@ -735,7 +735,7 @@ section {
 
     .main {
         justify-content: space-between;
-        background-color: var(--dark-bgr);
+        background-color: var(--dark-bg);
         background-image: url(../image/last_photo_me.png);
         margin-left: -155px;
         width: calc(100% + 155px);
@@ -823,7 +823,7 @@ section {
 
     .main {
         justify-content: space-between;
-        background-color: var(--dark-bgr);
+        background-color: var(--dark-bg);
         background-image: url(../image/last_photo_me.png);
         margin-left: -155px;
         width: calc(100% + 155px);
