@@ -209,7 +209,7 @@ section {
 /* End services */
 /* Start projects */
 .projects {
-    background-color: var(--dark-bg);
+    background-color: #000018;
 }
 
 .projects .content {
