@@ -51,19 +51,19 @@ project/
 
 ##### Image Home Section
 
-![Home Picture](images/Home.png)
+![Home Picture](image/Home.png)
 
 ##### Image Services Section
 
-![Services Picture](images/Services.png)
+![Services Picture](image/Services.png)
 
 ##### Image Projects Section
 
-![Projects Picture](images/Projects.png)
+![Projects Picture](image/Projects.png)
 
 ##### Image Contact Section
 
-![Contact Picture](images/Contact_Me.png)
+![Contact Picture](image/Contact_Me.png)
 
 
 ## Explain section by section
